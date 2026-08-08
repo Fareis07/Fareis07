@@ -36,12 +36,12 @@
 ## 🧠 Tecnologias que estou usando:
 
 <p align="center">
-  <img src=[https://skillicons.dev/icons?i=github,linux,apple,gmail,html,"/>
+  <img src="https://skillicons.dev/icons?i=github,linux,apple,gmail,html"/>
 </p>
 
 ---
 
-## 📚 Componentes Curriculares do Curso SENAI
+## 📚 Componentes Curriculares do Curso SENAC
 👨‍🦰 Planejar e executar montagem de computadores
 -  Planejar e executar a instalação de hardware e software para computadores 
 - ⚡ Planejar e executar a manutenção de computadores
